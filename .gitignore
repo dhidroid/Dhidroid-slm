@@ -1,1 +1,25 @@
-node_modules
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata resource forks (for files and folders)
+._*
+
+# macOS folder custom attributes
+**/.DocumentRevisions-V100
+**/.fseventsd
+**/.Spotlight-V100
+**/.TemporaryItems
+**/.Trashes
+**/.VolumeIcon.icns
+**/.com.apple.timemachine.donotpresent
+**/.AppleDB
+**/.AppleDesktop
+**/.apdisk
